@@ -13,3 +13,5 @@ To get your API key:
 
 This app allows you to enter an ingredient name, and it will suggest the dishes 
 you can make with it. Once you choose a dish, you will be redirected to the recipe for that item.
+
+This project also support on web browser.
